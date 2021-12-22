@@ -1,0 +1,15 @@
+{
+    "integracao": {
+        "data_criacao": "Mar/2018",
+        "integrador": "RAFA"
+    },
+    "pedidos": [
+        {
+            "type": "today",
+			"value": 10110.28
+        }, {
+            "type": "approved-today",
+			"value": 6050.35
+        }
+    ]
+}
