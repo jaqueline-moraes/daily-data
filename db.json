@@ -1,208 +1,208 @@
 {
-	"banner": {
-		"data": {
-			"data": {
-				"banners": [
-					{
-						"url": "https://via.placeholder.com/1500x100",
-						"alt": "Default banner",
-						"href": "#"
-					}
-				]
-			},
-			"errors": [],
-			"meta": {
-			    "count": 1
-			}
-		}
-	},
-	"score": {
-		"data": {
-			"data": {
-				"score": {
-					 "id_seller": 8,
-					 "score_taxa_entrega": 5,
-					 "score_taxa_cancelamento": 5,
-					 "score_nps": 5,
-					 "score_mediacao": 5,
-					 "score_reclamacao": 5,
-					 "score_taxa_envio": 5,
-					 "ind_mm_envios": 1,
-					 "score_final": 5,
-					 "score_text": "Otimo",
-					 "data_score": "2021-12-26",
-					 "updated_at":" 2021-12-27 03:22:52",
-					 "entrega": {
-							"total_entregue": 0,
-							"total_aberto_atrasado": 0,
-							"total_aberto": 0,
-							"total_atrasado": 0,
-							"valor_final": 0,
-							"score": 5,
-							"score_text": "Otimo",
-							"updated_at": "2021-12-27 03:05:07"
-					 },
-					 "mediacao": {
-							"mediados": 0,
-							"total_entregue": 0,
-							"valor_final": 0,
-							"score": 5,
-							"score_text": "Otimo",
-							"updated_at": "2021-12-27 03:19:56"
-					 },
-					 "cancelamento": {
-							"total_cancelados": 0,
-							"total_entregue": 0,
-							"valor_final": 0,
-							"score": 5,
-							"score_text": "Otimo",
-							"updated_at": "2021-12-27 03:04:53"
-					 },
-					 "nps": {
-							"total_notas": 0,
-							"promotor": 0,
-							"detrator": 0,
-							"valor_final": 100,
-							"score": 5,
-							"score_text": "Otimo",
-							"updated_at": "2021-12-27 03:10:41"
-					 },
-					 "reclamacao": {
-							"reclamacao": 0,
-							"total_entregue": 0,
-							"valor_final": 0,
-							"score": 5,
-							"score_text": "Otimo",
-							"updated_at": "2021-12-27 03:05:06"
-					 },
-					 "envio": {
-							"total_enviado": 0,
-							"total_aberto_atrasado": 0,
-							"total_aberto": null,
-							"total_atrasado": 0,
-							"valor_final": 0,
-							"score": 5,
-							"score_text": "Otimo",
-							"updated_at": "2021-12-27 03:05:05"
-					 }
-				}
-			},
-			"errors": [],
-			"meta": {
-				"count": 1
-			}
-		}
-	},
-	"daily": {
-		"data": {
-			"data": {
-				"daily": {
-					"integracao": {
-						"data_criacao" "Mar/2018",
-						"integrador": "EXAMPLE"
-					},
-					"pedidos": [
-						{
-							"type": "today",
-							"value": 10110.28
-						}, 
-						{
-							"type": "approved-today",
-							"value": 10110.28
-						}
-					],
-				}
-			},
-			"errors": [],
-			"meta": {
-			    "count": 1
-			}
-		}
-	},
-	"order_summary": {
-		"data": {
-			"data": {
-				"order_summary": {
-					"aprovados_nao_faturados": 0,
-					"faturados_nao_enviados": 0,
-					"enviados_nao_entregues": 0,
-					"atraso_faturamento": 0,
-					"atraso_envio": 0,
-					"atraso_entrega": 0
-				}
-			},
-			"errors": [],
-			"meta": {
-				"count": 1
-			}
-		}
-	},
-	"chart": {
-		"data": {
-			"data": {
-				"chart": {
-					{
-						"name": "12",
-						"aprovadas": 4000,
-						"incluidas": 2400,
-						"periodoAnterior": 2400,
-					},
-					{
-						"name": "13",
-						"aprovadas": 3000,
-						"incluidas": 1400,
-						"periodoAnterior": 3400,
-					},
-					{
-						"name": "14",
-						"aprovadas": 2000,
-						"incluidas": 9800,
-						"periodoAnterior": 2290,
-					},
-					{
-						"name": "15",
-						"aprovadas": 2780,
-						"incluidas": 3908,
-						"periodoAnterior": 2000,
-					},
-						{
-						"name": "16",
-						"aprovadas": 1890,
-						"incluidas": 4800,
-						"periodoAnterior": 2181,
-					},
-					{
-						"name": "17",
-						"aprovadas": 2390,
-						"incluidas": 3800,
-						"periodoAnterior": 2500,
-					},
-					{
-						"name": "18",
-						"aprovadas": 3490,
-						"incluidas": 4300,
-						"periodoAnterior": 2100,
-					},
-					{
-						"name": "19",
-						"aprovadas": 6490,
-						"incluidas": 5300,
-						"periodoAnterior": 3100,
-					},
-				},
-				"summary": {
-					"total": 456000,
-					"aprovados": 34220,
-					"periodoAnterior": 120905014,
-					"taxa": 15,
-					"cancelados": 0,
-					"ticket": 0
-				}
-			},
-			"errors": [],
-			"meta": {
-				"count": 1
-			}
-		}
-	},
+    "banner": {
+        "data": {
+            "data": {
+                "banners": [
+                    {
+                        "url": "https://via.placeholder.com/1500x100",
+                        "alt": "Default banner",
+                        "href": "#"
+                    }
+                ]
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "score": {
+        "data": {
+            "data": {
+                "score": {
+                    "id_seller": 8,
+                    "score_taxa_entrega": 5,
+                    "score_taxa_cancelamento": 5,
+                    "score_nps": 5,
+                    "score_mediacao": 5,
+                    "score_reclamacao": 5,
+                    "score_taxa_envio": 5,
+                    "ind_mm_envios": 1,
+                    "score_final": 5,
+                    "score_text": "Otimo",
+                    "data_score": "2021-12-26",
+                    "updated_at": " 2021-12-27 03:22:52",
+                    "entrega": {
+                        "total_entregue": 0,
+                        "total_aberto_atrasado": 0,
+                        "total_aberto": 0,
+                        "total_atrasado": 0,
+                        "valor_final": 0,
+                        "score": 5,
+                        "score_text": "Otimo",
+                        "updated_at": "2021-12-27 03:05:07"
+                    },
+                    "mediacao": {
+                        "mediados": 0,
+                        "total_entregue": 0,
+                        "valor_final": 0,
+                        "score": 5,
+                        "score_text": "Otimo",
+                        "updated_at": "2021-12-27 03:19:56"
+                    },
+                    "cancelamento": {
+                        "total_cancelados": 0,
+                        "total_entregue": 0,
+                        "valor_final": 0,
+                        "score": 5,
+                        "score_text": "Otimo",
+                        "updated_at": "2021-12-27 03:04:53"
+                    },
+                    "nps": {
+                        "total_notas": 0,
+                        "promotor": 0,
+                        "detrator": 0,
+                        "valor_final": 100,
+                        "score": 5,
+                        "score_text": "Otimo",
+                        "updated_at": "2021-12-27 03:10:41"
+                    },
+                    "reclamacao": {
+                        "reclamacao": 0,
+                        "total_entregue": 0,
+                        "valor_final": 0,
+                        "score": 5,
+                        "score_text": "Otimo",
+                        "updated_at": "2021-12-27 03:05:06"
+                    },
+                    "envio": {
+                        "total_enviado": 0,
+                        "total_aberto_atrasado": 0,
+                        "total_aberto": null,
+                        "total_atrasado": 0,
+                        "valor_final": 0,
+                        "score": 5,
+                        "score_text": "Otimo",
+                        "updated_at": "2021-12-27 03:05:05"
+                    }
+                }
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "daily": {
+        "data": {
+            "data": {
+                "daily": {
+                    "integracao": {
+                        "data_criacao": "Mar/2018",
+                        "integrador": "EXAMPLE"
+                    },
+                    "pedidos": [
+                        {
+                            "type": "today",
+                            "value": 10110.28
+                        },
+                        {
+                            "type": "approved-today",
+                            "value": 10110.28
+                        }
+                    ]
+                }
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "order_summary": {
+        "data": {
+            "data": {
+                "order_summary": {
+                    "aprovados_nao_faturados": 0,
+                    "faturados_nao_enviados": 0,
+                    "enviados_nao_entregues": 0,
+                    "atraso_faturamento": 0,
+                    "atraso_envio": 0,
+                    "atraso_entrega": 0
+                }
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "chart": {
+        "data": {
+            "data": {
+                "chart": [
+                    {
+                        "name": "12",
+                        "aprovadas": 4000,
+                        "incluidas": 2400,
+                        "periodoAnterior": 2400
+                    },
+                    {
+                        "name": "13",
+                        "aprovadas": 3000,
+                        "incluidas": 1400,
+                        "periodoAnterior": 3400
+                    },
+                    {
+                        "name": "14",
+                        "aprovadas": 2000,
+                        "incluidas": 9800,
+                        "periodoAnterior": 2290
+                    },
+                    {
+                        "name": "15",
+                        "aprovadas": 2780,
+                        "incluidas": 3908,
+                        "periodoAnterior": 2000
+                    },
+                    {
+                        "name": "16",
+                        "aprovadas": 1890,
+                        "incluidas": 4800,
+                        "periodoAnterior": 2181
+                    },
+                    {
+                        "name": "17",
+                        "aprovadas": 2390,
+                        "incluidas": 3800,
+                        "periodoAnterior": 2500
+                    },
+                    {
+                        "name": "18",
+                        "aprovadas": 3490,
+                        "incluidas": 4300,
+                        "periodoAnterior": 2100
+                    },
+                    {
+                        "name": "19",
+                        "aprovadas": 6490,
+                        "incluidas": 5300,
+                        "periodoAnterior": 3100
+                    }
+                ],
+                "summary": {
+                    "total": 456000,
+                    "aprovados": 34220,
+                    "periodoAnterior": 120905014,
+                    "taxa": 15,
+                    "cancelados": 0,
+                    "ticket": 0
+                }
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    }
 }
