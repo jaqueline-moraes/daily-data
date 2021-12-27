@@ -142,49 +142,49 @@
 			"data": {
 				"chart": {
 					{
-						"name: "12",
+						"name": "12",
 						"aprovadas": 4000,
 						"incluidas": 2400,
 						"periodoAnterior": 2400,
 					},
 					{
-						"name: "13",
+						"name": "13",
 						"aprovadas": 3000,
 						"incluidas": 1400,
 						"periodoAnterior": 3400,
 					},
 					{
-						"name: "14",
+						"name": "14",
 						"aprovadas": 2000,
 						"incluidas": 9800,
 						"periodoAnterior": 2290,
 					},
 					{
-						"name: "15",
+						"name": "15",
 						"aprovadas": 2780,
 						"incluidas": 3908,
 						"periodoAnterior": 2000,
 					},
 						{
-						"name: "16",
+						"name": "16",
 						"aprovadas": 1890,
 						"incluidas": 4800,
 						"periodoAnterior": 2181,
 					},
 					{
-						"name: "17",
+						"name": "17",
 						"aprovadas": 2390,
 						"incluidas": 3800,
 						"periodoAnterior": 2500,
 					},
 					{
-						"name: "18",
+						"name": "18",
 						"aprovadas": 3490,
 						"incluidas": 4300,
 						"periodoAnterior": 2100,
 					},
 					{
-						"name: "19",
+						"name": "19",
 						"aprovadas": 6490,
 						"incluidas": 5300,
 						"periodoAnterior": 3100,
