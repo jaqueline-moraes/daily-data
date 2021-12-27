@@ -204,5 +204,100 @@
                 "count": 1
             }
         }
+    },
+    "products_30_minutes": {
+        "data": {
+            "data": {
+                "products_30_minutes": [
+                    {
+                        "key": 1,
+                        "code": 1,
+                        "id": 1000073,
+                        "name": "Product Example",
+                        "seller": "Example",
+                        "qtd": 500,
+                        "amount": 17.0
+                    }
+                ]
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "products": {
+        "data": {
+            "data": {
+                "products": [
+                    {
+                        "key": 1,
+                        "code": 1,
+                        "id": 1000073,
+                        "name": "Product Example",
+                        "seller": "Example",
+                        "qtd": 500,
+                        "amount": 17.0
+                    }
+                ]
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "sellers": {
+        "data": {
+            "data": {
+                "sellers": [
+                    {
+                        "status": "cadastrados",
+                        "title": "Cadastrados",
+                        "value": 95
+                    },
+                    {
+                        "status": "em-golive",
+                        "title": "Em Golive",
+                        "value": 55
+                    },
+                    {
+                        "status": "ativos",
+                        "title": "Ativos",
+                        "value": 75
+                    },
+                    {
+                        "status": "aguardando-integracao",
+                        "title": "Aguardando Integração",
+                        "value": 15
+                    }
+                ]
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
+    },
+    "melhores_sellers": {
+        "data": {
+            "data": {
+                "melhores_sellers": [
+                    {
+                        "key": 1,
+                        "code": 1,
+                        "seller": "Seller Example",
+                        "share": "1044073",
+                        "amount": 199,
+                        "commission": 8,
+                        "score": 4
+                    }
+                ]
+            },
+            "errors": [],
+            "meta": {
+                "count": 1
+            }
+        }
     }
 }
