@@ -20,70 +20,26 @@
         "data": {
             "data": {
                 "score": {
-                    "id_seller": 8,
-                    "score_taxa_entrega": 5,
-                    "score_taxa_cancelamento": 5,
-                    "score_nps": 5,
-                    "score_mediacao": 5,
-                    "score_reclamacao": 5,
-                    "score_taxa_envio": 5,
-                    "ind_mm_envios": 1,
                     "score_final": 5,
-                    "score_text": "Otimo",
-                    "data_score": "2021-12-26",
-                    "updated_at": " 2021-12-27 03:22:52",
-                    "entrega": {
-                        "total_entregue": 0,
-                        "total_aberto_atrasado": 0,
-                        "total_aberto": 0,
-                        "total_atrasado": 0,
-                        "valor_final": 0,
-                        "score": 5,
-                        "score_text": "Otimo",
-                        "updated_at": "2021-12-27 03:05:07"
-                    },
-                    "mediacao": {
-                        "mediados": 0,
-                        "total_entregue": 0,
-                        "valor_final": 0,
-                        "score": 5,
-                        "score_text": "Otimo",
-                        "updated_at": "2021-12-27 03:19:56"
+                    "score_text": "Ótimo"
+                },
+                "entregas": {
+                    "total_entregas": 0,
+                    "atraso": {
+                        "type": "atraso",
+                        "title": "Atraso",
+                        "total_atrasos": 0,
+                        "total_em_atraso": 0
                     },
                     "cancelamento": {
-                        "total_cancelados": 0,
-                        "total_entregue": 0,
-                        "valor_final": 0,
-                        "score": 5,
-                        "score_text": "Otimo",
-                        "updated_at": "2021-12-27 03:04:53"
+                        "type": "cancelamento",
+                        "title": "Cancelamento",
+                        "total_cancelamentos": 0
                     },
-                    "nps": {
-                        "total_notas": 0,
-                        "promotor": 0,
-                        "detrator": 0,
-                        "valor_final": 100,
-                        "score": 5,
-                        "score_text": "Otimo",
-                        "updated_at": "2021-12-27 03:10:41"
-                    },
-                    "reclamacao": {
-                        "reclamacao": 0,
-                        "total_entregue": 0,
-                        "valor_final": 0,
-                        "score": 5,
-                        "score_text": "Otimo",
-                        "updated_at": "2021-12-27 03:05:06"
-                    },
-                    "envio": {
-                        "total_enviado": 0,
-                        "total_aberto_atrasado": 0,
-                        "total_aberto": null,
-                        "total_atrasado": 0,
-                        "valor_final": 0,
-                        "score": 5,
-                        "score_text": "Otimo",
-                        "updated_at": "2021-12-27 03:05:05"
+                    "mediacao": {
+                        "type": "mediacao",
+                        "title": "Mediação",
+                        "total_mediacoes": 0
                     }
                 }
             },
