@@ -23,25 +23,25 @@
                     "score_final": 5,
                     "score_text": "Ótimo"
                 },
-                "entregas": {
+                "entregas": [
                     "total_entregas": 0,
-                    "atraso": {
+                    {
                         "type": "atraso",
                         "title": "Atraso",
                         "total_atrasos": 0,
                         "total_em_atraso": 0
                     },
-                    "cancelamento": {
+                    {
                         "type": "cancelamento",
                         "title": "Cancelamento",
                         "total_cancelamentos": 0
                     },
-                    "mediacao": {
+                    {
                         "type": "mediacao",
                         "title": "Mediação",
                         "total_mediacoes": 0
                     }
-                }
+                ]
             },
             "errors": [],
             "meta": {
