@@ -53,12 +53,12 @@
                     },
                     "pedidos": [
                         {
-                            "type": "today",
-                            "value": 10110.28
+                            "tipo": "total-hoje",
+                            "valor": 10110.28
                         },
                         {
-                            "type": "approved-today",
-                            "value": 10110.28
+                            "tipo": "aprovados-hoje",
+                            "valor": 10110.28
                         }
                     ]
                 }
