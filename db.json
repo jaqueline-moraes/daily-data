@@ -24,18 +24,24 @@
                     "score_text": "Ótimo"
                 },
                 "entregas": {
+                    "total_entregas": 0,
                     "atraso": {
+                        "tipo": "atraso",
+                        "titulo": "Atraso",
                         "total_atrasos": 0,
                         "total_em_atraso": 0
                     },
                     "cancelamento": {
+                        "tipo": "cancelamento",
+                        "titulo": "Cancelamento",
                         "total_cancelamentos": 0
                     },
                     "mediacao": {
+                        "tipo": "mediacao",
+                        "titulo": "Mediação",
                         "total_mediacoes": 0
                     }
-                },
-                "total_entregas": 0
+                }
             },
             "errors": [],
             "meta": {
@@ -53,11 +59,11 @@
                     },
                     "pedidos": [
                         {
-                            "tipo": "total-hoje",
+                            "tipo": "total_hoje",
                             "valor": 10110.28
                         },
                         {
-                            "tipo": "aprovados-hoje",
+                            "tipo": "aprovados_hoje",
                             "valor": 10110.28
                         }
                     ]
@@ -73,12 +79,50 @@
         "data": {
             "data": {
                 "resumo_pedidos": {
-                    "aprovados_nao_faturados": 0,
-                    "faturados_nao_enviados": 0,
-                    "enviados_nao_entregues": 0,
-                    "atraso_faturamento": 0,
-                    "atraso_envio": 0,
-                    "atraso_entrega": 0
+                    "operacao_loja": [
+                        {
+                            "titulo": "Atraso no faturamento",
+                            "valor": 10,
+                            "url": "/"
+                        },
+                        {
+                            "titulo": "Atraso no envio",
+                            "valor": 20,
+                            "url": "/"
+                        },
+                        {
+                            "titulo": "Atraso na entrega",
+                            "valor": 30.2,
+                            "url": "/"
+                        },
+                        {
+                            "titulo": "Exceção de Transporte",
+                            "valor": 4,
+                            "url": "/"
+                        }
+                    ],
+                    "resumo_pedidos": [
+                        {
+                            "titulo": "Novos",
+                            "valor": 50,
+                            "url": "/"
+                        },
+                        {
+                            "titulo": "Aprovados",
+                            "valor": 65,
+                            "url": "/"
+                        },
+                        {
+                            "titulo": "Faturados",
+                            "valor": 7,
+                            "url": "/"
+                        },
+                        {
+                            "titulo": "Enviados",
+                            "valor": 80,
+                            "url": "/"
+                        }
+                    ]
                 }
             },
             "errors": [],
